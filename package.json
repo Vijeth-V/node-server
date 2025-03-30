@@ -1,0 +1,20 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Vijeth-V/node-server#readme",
+  "bugs": {
+    "url": "https://github.com/Vijeth-V/node-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijeth-V/node-server.git"
+  },
+  "license": "ISC",
+  "author": "Vijeth V",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
